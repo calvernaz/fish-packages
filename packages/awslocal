@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/calvernaz/awslocal
+description = Package provides a wrapper around awscli to interact with LocalStack
