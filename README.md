@@ -18,3 +18,7 @@ you should have this repository listed
 https://github.com/oh-my-fish/packages-main master
 https://github.com/calvernaz/fish-packages master
 ```
+
+## Available Packages
+
+* [awslocal](https://github.com/calvernaz/awslocal)
